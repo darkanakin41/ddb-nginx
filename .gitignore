@@ -1,0 +1,8 @@
+/nginx.conf
+###> gfi-centre-ouest/docker-devbox ###
+/docker-compose.yml
+/.bin/gitlab-runner
+/*ddb.local.*
+/.bash_enter
+/.bash_leave
+###< gfi-centre-ouest/docker-devbox ###
